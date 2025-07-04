@@ -1,0 +1,63 @@
+#box1{
+    border-radius: 8px;  /*--to give the shadow at right side of the box--*/
+   box-shadow: 5px 0px 5px;
+    margin: 30px auto;
+    width: 100px ;
+    height: 50px;
+    background-color: #b991aa;
+    text-align: center;
+}
+#box2{
+    border-radius: 8px;  /*--to give the shadow at down side of the box--*/
+    box-shadow: 0px 5px 5px ;
+    margin: 30px auto;
+    width: 100px ;
+    height: 50px;
+    background-color: #a898c0;
+    text-align: center;
+}
+#box3{
+    border-radius: 8px;  /*--to give the shadow at left side of the box--*/
+    box-shadow: -5px 0px 5px;
+    margin: 30px auto;
+    width: 100px ;
+    height: 50px;
+    background-color: #aebfc9;
+    text-align: center;
+}
+#box4{
+    border-radius: 8px;  /*--to give the shadow at upper side of the box--*/
+    box-shadow: 0px -5px 5px ;
+    margin: 30px auto;
+    width: 100px ;
+    height: 50px;
+    background-color: #aecbc0;
+    text-align: center;
+}
+#box5{
+    border-radius: 8px;  /*--to give the shadow at left inner side of the box--*/
+    box-shadow: inset 5px 0px 5px #4b6048;
+    margin: 30px auto;
+    width: 100px ;
+    height: 50px;
+    background-color: #98ad95;
+    text-align: center;
+}
+#box6{
+    border-radius: 8px;  /*--to give the shadow at upper inner side of the box--*/
+    box-shadow: inset 0px 5px 5px #827963  ;
+    margin: 30px auto;
+    width: 100px ;
+    height: 50px;
+    background-color: #b9ac98;
+    text-align: center;
+}
+#box7{
+    border-radius: 8px;  /*--to give the shadow at right and down inner side of the box--*/
+    box-shadow: inset -5px -5px 5px ;
+    margin: 30px auto;
+    width: 100px ;
+    height: 50px;
+    background-color: #baaaaa;
+    text-align: center;
+}
